@@ -274,7 +274,7 @@ maka diperoleh
     ```R
     # Poin B
     breaks = 50
-    hist(data, breaks, main = "5025201011_Nur Muhammad Ainul Yaqin_Probstat_E_DNhistogram")
+    hist(data, breaks, main = "5025201131_Mohammad Fadhil Rasyidin Parinduri_Probstat_C_DNhistogram")
 
     ```
     Dengan hasil sebagai berikut
